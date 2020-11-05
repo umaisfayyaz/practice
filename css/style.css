@@ -1,0 +1,172 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* Header section Starts */
+nav {
+    background: #fff;
+    box-shadow: 0 10px 30px 0 rgb(138, 155, 165, 0.15);
+}
+
+.nav-button {
+    background-color: #603e94;
+    color: white !important;
+    border: none;
+}
+
+.nav-button:hover {
+    background-color: white;
+    color: black !important;
+}
+
+.button-hero {
+    background-color: #603e94;
+    color: white !important;
+    border: none;
+}
+
+.header-text {
+    margin-top: 50px;
+}
+
+.head-text {
+    font-size: 15px;
+    font-weight: 500;
+    color: #495057;
+}
+
+.signin a {
+    color: black;
+    font-weight: 500;
+}
+
+/* Header Section Ends */
+
+/* Main Section Starts */
+
+.main-line .row :first-child {
+    border: 3px solid #603e94;
+}
+
+.main-line .row :nth-child(2) {
+    border: 3px solid #e8417c;
+}
+
+.main-line1 {
+    text-align: center;
+}
+
+.video-heading {
+    font-weight: 700 !important;
+    color: black !important;
+}
+
+/* Brand Section Starts */
+.brands {
+    background-color: #eef3f7;
+}
+
+.brand-text {
+    color: #acb5bd;
+    font-weight: 500 !important;
+}
+
+/* Brand Section Ends */
+
+/* Testimonials Section Starts */
+.testimonials-heading {
+    color: black !important;
+}
+
+/* testimonial card starts */
+.card1 {
+    background-color: #603e94;
+    color: white;
+}
+
+.card2 {
+    background-color: #e8417c !important;
+    color: white;
+}
+
+.card img {
+    width: 70px;
+    border-radius: 50%;
+    border: 4px solid #fff;
+    margin: 0 auto;
+}
+
+.card-text {
+    font-size: 15px;
+}
+
+/* testimonial card ends */
+
+/* Testiomonials Section Ends */
+
+
+/* update box section Starts */
+.update-box {
+    position: relative;
+    top: 170px;
+    background-color: white !important;
+    border-radius: 10px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.update-button {
+    color: #603e94 !important;
+    background-color: white;
+    font-weight: 500;
+}
+
+/* Account ection Starts */
+.accounts {
+    background-color: #603e94 !important;
+}
+
+.account {
+    width: 100% !important;
+    background-color: #603e94 !important;
+    color: white !important;
+}
+
+.account-text {
+    margin-top: 70px;
+}
+
+/* Main Section Ends */
+
+/* Footer Section Starts */
+footer {
+    background-color: #2e1a4d;
+}
+
+.footer-text li {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.footer-text li a {
+    color: white;
+
+}
+
+.icons li {
+    list-style-type: none;
+    padding: 5px;
+}
+
+.icons li i {
+    font-size: 20px;
+    padding: 10px;
+    padding-right: 13px;
+    color: #2e1a4d;
+    background-color: white;
+    border-radius: 50%;
+}
+
+/* Footer Section Ends */
